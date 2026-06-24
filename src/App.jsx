@@ -8,7 +8,7 @@ const skills = [
 
 const project = {
   name: "4RMTech Frontend",
-  description: "My first and currently only hosted project.",
+  description: "My first and current hosted project.",
   link: "https://4rmtech-frontend.vercel.app/",
 };
 
